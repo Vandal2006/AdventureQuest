@@ -108,7 +108,7 @@ for c in comaptablity:
     totalCompatibility += c
 if totalCompatibility>85:
     print(COMPATIBILITY_RANGE[0])
-    webbrowser.open('https://www.youtube.com/watch?v=EhGEGIBGLu8')
+    webbrowser.open('https://proud-grass-02d65ec10.1.azurestaticapps.net/')
 if totalCompatibility<84:
     print(COMPATIBILITY_RANGE[1])
-    webbrowser.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+    webbrowser.open('https://red-cliff-0186fc610.1.azurestaticapps.net/')
